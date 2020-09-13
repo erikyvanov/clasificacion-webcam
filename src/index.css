@@ -350,10 +350,10 @@ template {
   display: none;
 }
 
-body {
-  background-color: #ccdfcb;
-}
-
 .clasificacion-webcam {
   text-align: center;
+}
+
+h1 {
+  font-family: 'Bebas Neue', cursive;
 }

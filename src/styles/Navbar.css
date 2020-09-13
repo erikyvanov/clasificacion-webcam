@@ -21,8 +21,10 @@ div .boton {
 
   user-select: none;
   cursor: pointer;
+
+  font-family: 'Bebas Neue', cursive;
 }
 
 .active {
-  background-color: #ff6a6c;
+  background-color: #007e90;
 }

@@ -1,0 +1,14 @@
+div .play {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #007e90;
+}
+
+video {
+  width: 80%;
+  margin: 10px;
+
+  border-radius: 20px;
+}

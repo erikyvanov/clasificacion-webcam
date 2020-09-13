@@ -1,13 +1,13 @@
 import React from 'react';
 import { Navbar } from './components/Navbar';
-import { Play } from './components/Play';
+import { Camara } from './components/Camara';
 
 export const ClasificacionWebcam = () => {
   return (
     <div className="clasificacion-webcam">
-      <h1>Clasificación Webcam</h1>
+      <h1 className="title">Clasificación Webcam</h1>
       <Navbar />
-      <Play />
+      <Camara />
     </div>
   );
 };
