@@ -7,8 +7,12 @@ div .play {
 }
 
 video {
-  width: 80%;
+  width: 50%;
   margin: 10px;
 
   border-radius: 20px;
+}
+
+h3 {
+  font-family: 'Bebas Neue', cursive;
 }

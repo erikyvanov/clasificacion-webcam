@@ -354,6 +354,20 @@ template {
   text-align: center;
 }
 
-h1 {
+.title {
   font-family: 'Bebas Neue', cursive;
+  color: #ccdfcb;
+  background-color: #056571;
+  padding: 15px 0;
+
+  margin: 0;
+}
+
+.clasificacion-webcam {
+  background-color: #414141;
+}
+
+html {
+  height: 100%;
+  background-color: #414141;
 }
