@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../css/Navbar.css';
+import '../styles/Navbar.css';
 
 export const Navbar = () => {
   const [page, setPage] = useState('play');
