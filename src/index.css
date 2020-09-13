@@ -349,3 +349,11 @@ template {
 [hidden] {
   display: none;
 }
+
+body {
+  background-color: #ccdfcb;
+}
+
+.clasificacion-webcam {
+  text-align: center;
+}
